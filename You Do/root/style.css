@@ -1,0 +1,32 @@
+*{
+    font-family: monospace;
+}
+
+body {
+	margin: 0;
+}
+
+.heading {
+	position: absolute;
+	text-align: center;
+	top: 30%;
+	width: 100%;
+}
+.heading h1 {
+	color: aliceblue;
+	font-size: 70px;
+}
+.heading h3 {
+	color: aliceblue;
+	font-size: 20px;
+}
+#particles-js {
+	background: black;
+	height: 100vh;
+}
+
+.login{
+	color: aliceblue;
+	font-size: 20px;
+}
+
